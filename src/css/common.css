@@ -16,3 +16,24 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.timer {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  color: #6d6a6a;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.label {
+  display: inline-block;
+  font-size: 20px;
+  padding: 10px;
+  text-transform: uppercase;
+}
+
+.value {
+  display: block;
+  font-size: 50px;
+}
